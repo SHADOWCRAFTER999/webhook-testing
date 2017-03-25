@@ -1,4 +1,2 @@
-# webhook-trying
-
-Hello there!
-This is a random file that I first created, don't hate!
+# Discord Bot Thingy
+Created By SHADOWCRAFTER999 and I don't care at all
